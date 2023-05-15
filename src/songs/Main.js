@@ -21,6 +21,7 @@ const PlaylistMain = styled.div`
     }
 `;
 
+
 const Main = () => {
     const navigate = useNavigate();
 
