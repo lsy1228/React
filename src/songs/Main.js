@@ -14,6 +14,8 @@ const PlaylistMain = styled.div`
     background-color: black;
     position: absolute;
 
+
+    
     .logo {
         width: 110px;
         height: 100px;
